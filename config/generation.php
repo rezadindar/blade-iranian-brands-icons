@@ -13,7 +13,7 @@ $svgNormalization = static function (string $tempFilepath, array $iconSet) {
     $svgElement = $doc->getElementsByTagName('svg')[0];
     $svgElement->removeAttribute('width');
     $svgElement->removeAttribute('height');
-    $svgElement->setAttribute('fill', 'none');
+    $svgElement->setAttribute('fill', 'currentColor');
     $doc->save($tempFilepath);
 
     $fileLines = file($tempFilepath);
