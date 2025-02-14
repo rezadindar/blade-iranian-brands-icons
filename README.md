@@ -22,7 +22,7 @@ For a full list of available icons see [the SVG directory](resources/svg).
 ## Installation
 
 ```bash
-composer require rezadindar/blade-iranian-brands-icons
+composer require mrdindar/blade-iranian-brands-icons
 ```
 
 ## Blade Icons
