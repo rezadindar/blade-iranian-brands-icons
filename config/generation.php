@@ -1,9 +1,9 @@
 <?php
 
 $svgNormalization = static function (string $tempFilepath, array $iconSet) {
-    $doc = new DOMDocument();
+    $doc = new DOMDocument;
     $doc->load($tempFilepath);
-    
+
     $xpath = new DOMXPath($doc);
     $comments = $xpath->query('//comment()');
     foreach ($comments as $comment) {
