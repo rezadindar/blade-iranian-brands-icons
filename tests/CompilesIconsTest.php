@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use MRDindar\IranianBrandsIcons\BladeIranianBrandsIconsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
+use MRDindar\IranianBrandsIcons\BladeIranianBrandsIconsServiceProvider;
 use Orchestra\Testbench\TestCase;
 
 class CompilesIconsTest extends TestCase
