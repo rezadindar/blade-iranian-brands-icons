@@ -1,7 +1,7 @@
 # Blade Iranian Brands Icons Template
 
 <a href="https://github.com/rezadindar/blade-iranian-brands-icons/actions?query=workflow%3ATests">
-    <img src="https://github.com/blade-ui-kit/blade-iranian-brands-icons/workflows/Tests/badge.svg" alt="Tests">
+    <img src="https://github.com/rezadindar/blade-iranian-brands-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
 <a href="https://packagist.org/packages/mrdindar/blade-iranian-brands-icons">
     <img src="https://img.shields.io/packagist/v/mrdindar/blade-iranian-brands-icons" alt="Latest Stable Version">
