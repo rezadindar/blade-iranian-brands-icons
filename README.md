@@ -3,11 +3,11 @@
 <a href="https://github.com/rezadindar/blade-iranian-brands-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/blade-ui-kit/blade-iranian-brands-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
-<a href="https://packagist.org/packages/rezadindar/blade-iranian-brands-icons">
-    <img src="https://img.shields.io/packagist/v/rezadindar/blade-iranian-brands-icons" alt="Latest Stable Version">
+<a href="https://packagist.org/packages/mrdindar/blade-iranian-brands-icons">
+    <img src="https://img.shields.io/packagist/v/mrdindar/blade-iranian-brands-icons" alt="Latest Stable Version">
 </a>
-<a href="https://packagist.org/packages/rezadindar/blade-iranian-brands-icons">
-    <img src="https://img.shields.io/packagist/dt/rezadindar/blade-iranian-brands-icons" alt="Total Downloads">
+<a href="https://packagist.org/packages/mrdindar/blade-iranian-brands-icons">
+    <img src="https://img.shields.io/packagist/dt/mrdindar/blade-iranian-brands-icons" alt="Total Downloads">
 </a>
 
 A package to easily make use of [Iranian Brands Icons](https://github.com/rezadindar/blade-iranian-brands-icons) in your Laravel Blade views.
