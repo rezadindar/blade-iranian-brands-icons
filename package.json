@@ -1,6 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "iranian-brands-icons": "^1.0"
+    "iranian-brands-icons": "^1.0.1"
   }
 }
